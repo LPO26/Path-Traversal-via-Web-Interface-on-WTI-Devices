@@ -1,0 +1,23 @@
+Affected Product
+Vendor: WTI (Wireless Technology, Inc.)
+Product: WTI Web Management Interface
+Component: Camera Control Interface
+Version: Camera Control version 3.5.0.r 2024/05/24 00:00:00
+
+Vulnerability Type
+Path Traversal / Local File Inclusion (LFI)
+CWE: CWE-22 (Improper Limitation of a Pathname to a Restricted Directory)
+
+Impact
+An attacker with valid authentication could:
+Read sensitive system files
+Access configuration data and credentials
+Gain information that could facilitate further compromise of the device or connected environment
+The vulnerability could lead to information disclosure and increased attack surface for lateral movement.
+
+Mitigation
+Apply vendor-provided firmware or software updates if available.
+Restrict access to the web management interface using network controls.
+Enforce strong authentication and limit administrative access.
+Disable the web interface if not required.
+Monitor device logs for suspicious file access activity
