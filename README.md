@@ -112,4 +112,4 @@ escalation.
 
 - CWE-22: https://cwe.mitre.org/data/definitions/22.html
 - Repository / write-up: https://github.com/LPO26/Path-Traversal-via-Web-Interface-on-WTI-Devices
-- Vendor advisory: *(add once published)*
+- Vendor advisory: *(Will be added once published)*
