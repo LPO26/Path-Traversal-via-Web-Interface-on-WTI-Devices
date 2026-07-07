@@ -101,10 +101,8 @@ escalation.
 
 | Date | Event |
 |------|-------|
-| YYYY-MM-DD | Vulnerability discovered |
-| YYYY-MM-DD | CVE-2025-70796 assigned by MITRE |
-| YYYY-MM-DD | Vendor notified |
-| YYYY-MM-DD | Vendor response / patch (if any) |
+| 2025-12-29 | Vulnerability discovered |
+| 2026-02-04 | CVE-2025-70796 assigned by MITRE |
 | YYYY-MM-DD | Public disclosure |
 
 *Fill in the dates as your coordination progresses.*
