@@ -105,7 +105,6 @@ escalation.
 | 2026-02-04 | CVE-2025-70796 assigned by MITRE |
 | YYYY-MM-DD | Public disclosure |
 
-*Fill in the dates as your coordination progresses.*
 
 ---
 
