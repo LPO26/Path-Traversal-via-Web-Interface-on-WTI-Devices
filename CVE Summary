@@ -105,7 +105,6 @@ escalation.
 | 2026-02-04 | CVE-2025-70796 assigned by MITRE |
 | YYYY-MM-DD | Public disclosure |
 
-*Fill in the dates as your coordination progresses.*
 
 ---
 
@@ -113,4 +112,4 @@ escalation.
 
 - CWE-22: https://cwe.mitre.org/data/definitions/22.html
 - Repository / write-up: https://github.com/LPO26/Path-Traversal-via-Web-Interface-on-WTI-Devices
-- Vendor advisory: *(add once published)*
+- Vendor advisory: *(Will be added once published)*
